@@ -1,0 +1,89 @@
+﻿#mount {
+    position:absolute;
+    top: 15%;
+    width: 90px;
+    height: 35px;
+    background-color: #f79c6b;
+    border-radius: 15px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    z-index: 1;
+}
+
+#jungle {
+    position:absolute;
+    top: 25%;
+    width: 90px;
+    height: 35px;
+    background-color: #25ea60;
+    border-radius: 15px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    z-index: 1;
+}
+
+#ocean {
+    position: absolute;
+    top: 35%;
+    width: 90px;
+    height: 35px;
+    background-color: #1ef7c9;
+    border-radius: 15px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    z-index: 1;
+}
+
+#desert {
+    position: absolute;
+    top: 45%;
+    width: 90px;
+    height: 35px;
+    background-color: #fae9a0;
+    border-radius: 15px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    z-index: 1;
+}
+
+#beach {
+    position: absolute;
+    top: 55%;
+    width: 90px;
+    height: 35px;
+    background-color: #a0f7fa;
+    border-radius: 15px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    z-index:1;
+}
+
+
+
+
+
+#home {
+    position: absolute;
+    top: 65%;
+    width: 90px;
+    height: 35px;
+    background-color: #bfcbcb;
+    border-radius: 15px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+    z-index: 1;
+}
+
+.mountimg {
+    background-image: url(D:\workspace\WebProgramming\Project2\Project2\Properties);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    z-index: 0;
+}
