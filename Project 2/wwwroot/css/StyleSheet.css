@@ -1,5 +1,5 @@
 ﻿#mount {
-    position:absolute;
+    position: absolute;
     top: 15%;
     width: 90px;
     height: 35px;
@@ -9,10 +9,12 @@
     font-size: 12px;
     font-weight: 600;
     z-index: 1;
+    opacity: 0.9;
+    filter: alpha(opacity=50);
 }
 
 #jungle {
-    position:absolute;
+    position: absolute;
     top: 25%;
     width: 90px;
     height: 35px;
@@ -22,6 +24,8 @@
     font-size: 12px;
     font-weight: 600;
     z-index: 1;
+    opacity: 0.9;
+    filter: alpha(opacity=50);
 }
 
 #ocean {
@@ -30,6 +34,8 @@
     width: 90px;
     height: 35px;
     background-color: #1ef7c9;
+    opacity: 0.9;
+    filter: alpha(opacity=50);
     border-radius: 15px;
     border: none;
     font-size: 12px;
@@ -48,6 +54,8 @@
     font-size: 12px;
     font-weight: 600;
     z-index: 1;
+    opacity: 0.9;
+    filter: alpha(opacity=50);
 }
 
 #beach {
@@ -60,7 +68,9 @@
     border: none;
     font-size: 12px;
     font-weight: 600;
-    z-index:1;
+    z-index: 1;
+    opacity: 0.9;
+    filter: alpha(opacity=50);
 }
 
 
@@ -78,12 +88,16 @@
     font-size: 12px;
     font-weight: 600;
     z-index: 1;
+    opacity: 0.9;
+    filter: alpha(opacity=50);
 }
 
 .mountimg {
     background-image: url(D:\workspace\WebProgramming\Project2\Project2\Properties);
-    background-position:center;
-    background-repeat:no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     z-index: 0;
+    opacity: 0.9;
+    filter: alpha(opacity=50);
 }

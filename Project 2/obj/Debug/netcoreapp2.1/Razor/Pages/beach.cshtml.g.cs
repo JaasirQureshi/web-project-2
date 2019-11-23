@@ -60,12 +60,12 @@ using Project_2;
             WriteLiteral("   \r\n\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(100, 168, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eca1a23be8894d1bbf052df4923a13fc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4e3aa31100f8406e8a325782e6ab65c3", async() => {
                 BeginContext(106, 8, true);
                 WriteLiteral("\r\n\r\n    ");
                 EndContext();
                 BeginContext(114, 64, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c870752f5bb8475a80f60c7ed62c4177", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "91f16d3301d34f2baf942934430219e1", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -85,7 +85,7 @@ using Project_2;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(184, 69, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1116216f770d4aef8476ff89902540ce", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e1b0efc396864089b3e4a16e23bc8679", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -120,7 +120,7 @@ using Project_2;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(270, 137, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5304e718829d406e8d23bc3f47d543d8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "20cea5df590e4834bc579f4842bdb3b3", async() => {
                 BeginContext(276, 124, true);
                 WriteLiteral("\r\n    <div class=\"banner\">\r\n        <div class=\"banner-text\">\r\n            <h1>Beach</h1>\r\n        </div>\r\n    </div>\r\n   \r\n");
                 EndContext();

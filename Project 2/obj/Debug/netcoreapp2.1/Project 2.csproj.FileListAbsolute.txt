@@ -32,10 +32,6 @@ D:\workspace\Web Programming\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\P
 D:\workspace\Web Programming\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\workspace\Web Programming\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\workspace\Web Programming\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.RazorAssemblyInfo.cache
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.RazorAssemblyInfo.cs
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.AssemblyInfoInputs.cache
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.AssemblyInfo.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
@@ -46,14 +42,24 @@ C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\bin\Debug\netcoreapp2.1\Project 2
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\bin\Debug\netcoreapp2.1\Project 2.pdb
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\bin\Debug\netcoreapp2.1\Project 2.Views.dll
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\bin\Debug\netcoreapp2.1\Project 2.Views.pdb
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.csprojAssemblyReference.cache
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.RazorAssemblyInfo.cache
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.RazorAssemblyInfo.cs
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.AssemblyInfoInputs.cache
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.AssemblyInfo.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.TagHelpers.input.cache
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.TagHelpers.output.cache
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.RazorCoreGenerate.cache
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\beach.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\desert.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Index2.cshtml.g.cs
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\jungle.cshtml.g.cs
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\mountain.cshtml.g.cs
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\ocean.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
@@ -66,9 +72,3 @@ C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.dll
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.pdb
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.csproj.CopyComplete
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.csprojAssemblyReference.cache
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\beach.cshtml.g.cs
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\desert.cshtml.g.cs
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\jungle.cshtml.g.cs
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\ocean.cshtml.g.cs
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\mountain.cshtml.g.cs
