@@ -59,7 +59,6 @@ C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pag
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Index2.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\jungle.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\mountain.cshtml.g.cs
-C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\ocean.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
@@ -72,3 +71,4 @@ C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.dll
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.pdb
 C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Project 2.csproj.CopyComplete
+C:\Users\Jaasir\Desktop\P2\Project 2\Project 2\obj\Debug\netcoreapp2.1\Razor\Pages\ocean.cshtml.g.cs
